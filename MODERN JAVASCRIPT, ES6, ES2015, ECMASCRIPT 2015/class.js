@@ -6,4 +6,4 @@ class Student{
 }
 
 const mystudent = new Student('Rabiul Hasan', 24);
-console.log(mystudent);
+console.log(mystudent)
